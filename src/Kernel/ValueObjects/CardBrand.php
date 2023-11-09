@@ -69,6 +69,11 @@ final class CardBrand extends AbstractValueObject
         return new self(self::AMEX);
     }
 
+    static public function americanexpress()
+    {
+        return new self(self::AMEX);
+    }
+
     static public function hipercard()
     {
         return new self(self::HIPERCARD);
