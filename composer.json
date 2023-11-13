@@ -2,7 +2,7 @@
   "name": "heitorforner/pagarme-ecommerce-module-core",
   "description": "Fork of core component for Pagar.me e-commerce platform modules.",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "2.3.0",
   "authors": [
     {
       "name":"Open Source Team, fork by Heitor Forner"
